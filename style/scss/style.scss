@@ -1,0 +1,9 @@
+@import "mixin";
+@import "variables";
+
+
+.header-top{
+    h1{
+        @include mostafaStyle;
+    }
+}
